@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "none",
+    "strict": true,
+    "noImplicitAny": true,
+    "outDir": "dist"
+  },
+  "include": ["js/**/*.ts"]
+}
